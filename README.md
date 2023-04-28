@@ -1,7 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D16AQH5Nf1Kum8wMA/profile-displaybackgroundimage-shrink_200_800/0/1591775971504?e=2147483647&v=beta&t=kld4psY5Yso9FRTcHe9AdJCJyjlxlPiq1Wru6Pzhp6U)](https://D-Rajesh.io)
 <h1 align="center">Hi 👋, I'm D Rajesh Sahoo</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-rajesh&label=Profile%20views&color=0e75b6&style=flat" alt="d-rajesh" /> </p>
 
